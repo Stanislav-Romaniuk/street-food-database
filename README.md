@@ -1,3 +1,12 @@
+# Support the Author
+
+If you want to support the development of this project, you can make a donation.
+
+## 🇺🇦 Ukraine (UAH)
+4441 1111 0773 8019
+
+---
+
 # Street Food CLI
 
 A simple **Node.js CLI application** for managing street food data in a **PostgreSQL database**.
@@ -47,5 +56,7 @@ Table: `street_food`
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/street-food-cli.git
-cd street-food-cli
+git clone https://github.com/your-username/street-food-database.git
+cd street-food-database
+
+
